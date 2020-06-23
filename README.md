@@ -38,8 +38,10 @@ Agenda:
     uiLabel.font = DesignSystem.Typography.display1.font
     uiLabel.adjustsFontForContentSizeCategory = true
 ```
- 
-
+# Coming soon .... 
+ ## Animation 
+  Link: https://www.youtube.com/watch?v=Xp66QFlz2W8
+  
 ----
 
 Credit by: Karim Ebrahem
